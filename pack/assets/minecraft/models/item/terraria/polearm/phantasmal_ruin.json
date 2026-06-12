@@ -1,0 +1,38 @@
+{
+	"format_version": "1.9.0",
+	"credit": "By Phanisment",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/terraria/polearm/phantasmal_ruin"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, -90, -45],
+			"translation": [0, 3, 1.5],
+			"scale": [4, 4, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 90, 45],
+			"translation": [0, 3, 1.5],
+			"scale": [4, 4, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, -90, -45],
+			"translation": [0, 4, 1.5],
+			"scale": [1.5, 1.5, 0.45]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 90, 45],
+			"translation": [0, 4, 1.5],
+			"scale": [1.5, 1.5, 0.45]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [4, 4, 1]
+		}
+	}
+}
