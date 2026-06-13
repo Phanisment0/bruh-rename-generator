@@ -1,9 +1,7 @@
 {
-	"format_version": "1.9.0",
-	"credit": "By Phanisment",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/terraria/sword/brimlash_buster"
+		"layer0": "#empty"
 	},
 	"display": {
 		"thirdperson_righthand": {
