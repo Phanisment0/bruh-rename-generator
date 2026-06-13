@@ -36,6 +36,7 @@ Properti "types" ini berbentuk sebuah list (array) string yang berisi ID materia
 
 Misalkan kamu memiliki file model senjata bernama `murasama.json` (yang nantinya akan memicu perubahan visual saat item diubah namanya menjadi `Murasama`), isi bagian atas filenya harus diatur seperti ini:
 
+```json
 {
   "types": [
     "minecraft:diamond_sword",
@@ -46,6 +47,7 @@ Misalkan kamu memiliki file model senjata bernama `murasama.json` (yang nantinya
     "layer0": "terraria:item/sword/murasama"
   }
 }
+```
 
 ### Cara Kerja Pemetaan Item:
 
