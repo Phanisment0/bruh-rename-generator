@@ -1,0 +1,7 @@
+{
+	"types": [ "minecraft:diamond_sword", "minecraft:netherite_sword" ],
+	"parent": "terraria:item/polearm_x48",
+	"textures": {
+		"layer0": "terraria:item/polearm/antarctica"
+	}
+} 

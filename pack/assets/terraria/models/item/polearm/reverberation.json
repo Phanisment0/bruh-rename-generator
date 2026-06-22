@@ -1,0 +1,37 @@
+{
+	"types": [ "minecraft:diamond_sword", "minecraft:netherite_sword" ],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "terraria:item/polearm/reverberation"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 6, 1.25],
+			"scale": [4, 4, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67.5, 0, -75],
+			"translation": [-1, -5.25, 19],
+			"scale": [3.5, 3.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, -90, -45],
+			"translation": [0, 4, 1.5],
+			"scale": [1.5, 1.5, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 90, 45],
+			"translation": [0, 4, 1.5],
+			"scale": [1.5, 1.5, 0.25]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 0.25]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [4, 4, 1]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"types": [ "minecraft:diamond_sword", "minecraft:netherite_sword" ],
+	"parent": "terraria:item/polearm_x32",
+	"textures": {
+		"layer0": "terraria:item/sword/brimlash"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, -90, -45],
+			"translation": [0, 12, 1.5],
+			"scale": [2, 2, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 90, 45],
+			"translation": [0, 12, 1.5],
+			"scale": [2, 2, 1]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"types": [ "minecraft:flint" ],
+	"parent": "hoplite:item/default_helmet/base",
+	"textures": {
+		"0": "hoplite:item/default_helmet/normal"
+	}
+}

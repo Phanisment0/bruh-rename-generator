@@ -1,0 +1,36 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "terraria:item/polearm/vulcanite_lance"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 8, 1.5],
+			"scale": [2.5, 2.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, 8, 1.5],
+			"scale": [3, 3, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0.5, 8, 1.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [0.5, 8, 1.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [3, 3, 1.5]
+		}
+	}
+}

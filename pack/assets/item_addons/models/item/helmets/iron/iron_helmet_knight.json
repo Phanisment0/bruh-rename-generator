@@ -1,0 +1,7 @@
+{
+	"types": [ "minecraft:flint" ],
+	"parent": "item_addons:item/helmets/base_helmet",
+	"textures": {
+		"0": "item_addons:item/helmets/iron/iron_helmet_knight"
+	}
+}

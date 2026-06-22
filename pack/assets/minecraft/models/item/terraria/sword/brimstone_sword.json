@@ -1,6 +1,0 @@
-{
-	"parent": "item/polearm_x32",
-	"textures": {
-		"layer0": "minecraft:item/terraria/sword/brimstone_sword"
-	}
-}

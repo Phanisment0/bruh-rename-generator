@@ -1,0 +1,7 @@
+{
+	"types": [ "minecraft:diamond_sword", "minecraft:netherite_sword" ],
+	"parent": "terraria:item/polearm_x32",
+	"textures": {
+		"layer0": "terraria:item/sword/brimstone_sword"
+	}
+}

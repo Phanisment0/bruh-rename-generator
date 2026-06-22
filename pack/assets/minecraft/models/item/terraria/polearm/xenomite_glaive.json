@@ -1,6 +1,0 @@
-{
-	"parent": "item/polearm_x64",
-	"textures": {
-		"layer0": "minecraft:item/terraria/polearm/xenomite_glaive"
-	}
-}

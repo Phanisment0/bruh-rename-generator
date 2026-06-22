@@ -1,0 +1,7 @@
+{
+	"types": [ "minecraft:flint" ],
+	"parent": "hoplite:item/aviator_cap/base",
+	"textures": {
+		"0": "hoplite:item/aviator_cap/shiny"
+	}
+}

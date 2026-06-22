@@ -1,0 +1,321 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Meme Sunglasses",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/meme_sunglasses"
+        }
+      },
+      {
+        "when": "Throir Goggles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/throir_goggles"
+        }
+      },
+      {
+        "when": "Artemis Crown",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/artemis_crown/artemis_crown"
+        }
+      },
+      {
+        "when": "Artemis Crown Shiny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/artemis_crown/artemis_crown_shiny"
+        }
+      },
+      {
+        "when": "Ashebound Hood",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/ashebound_hood/ashebound_hood"
+        }
+      },
+      {
+        "when": "Ashebound Hood Shiny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/ashebound_hood/ashebound_hood_shiny"
+        }
+      },
+      {
+        "when": "Aviator Cap",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/aviator_cap/aviator_cap"
+        }
+      },
+      {
+        "when": "Aviator Cap Shiny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/aviator_cap/aviator_cap_shiny"
+        }
+      },
+      {
+        "when": "Beta Tester Helmet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/beta_tester_helmet/beta_tester_helmet"
+        }
+      },
+      {
+        "when": "Beta Tester Helmet Shiny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/beta_tester_helmet/beta_tester_helmet_shiny"
+        }
+      },
+      {
+        "when": "Default Helmet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/default_helmet/default_helmet"
+        }
+      },
+      {
+        "when": "Default Helmet Shiny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/default_helmet/default_helmet_shiny"
+        }
+      },
+      {
+        "when": "Knight Helmet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/knight_helmet/knight_helmet"
+        }
+      },
+      {
+        "when": "Knight Helmet Legacy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/knight_helmet/knight_helmet_legacy"
+        }
+      },
+      {
+        "when": "Knight Helmet Shiny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hoplite:item/knight_helmet/knight_helmet_shiny"
+        }
+      },
+      {
+        "when": "Animal Ears",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/animal_ears"
+        }
+      },
+      {
+        "when": "Axolotl Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/axolotl_hat"
+        }
+      },
+      {
+        "when": "Baseball Cap",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/baseball_cap"
+        }
+      },
+      {
+        "when": "Baseball Cap Back",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/baseball_cap_back"
+        }
+      },
+      {
+        "when": "Baseball Cap Side",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/baseball_cap_side"
+        }
+      },
+      {
+        "when": "Beanie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/beanie"
+        }
+      },
+      {
+        "when": "Beard",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/beard"
+        }
+      },
+      {
+        "when": "Beret",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/beret"
+        }
+      },
+      {
+        "when": "Bud Crown",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/bud_crown"
+        }
+      },
+      {
+        "when": "Captain Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/captain_hat"
+        }
+      },
+      {
+        "when": "Captain Hat Walrus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/captain_hat_walrus"
+        }
+      },
+      {
+        "when": "Cardboard Helmet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/cardboard_helmet"
+        }
+      },
+      {
+        "when": "Casino Fedora",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/casino_fedora"
+        }
+      },
+      {
+        "when": "Chef Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/chef_hat"
+        }
+      },
+      {
+        "when": "Fedora",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/fedora"
+        }
+      },
+      {
+        "when": "Football Helmet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/football_helmet"
+        }
+      },
+      {
+        "when": "Headphones",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/headphones"
+        }
+      },
+      {
+        "when": "Miner Cap",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/miner_cap"
+        }
+      },
+      {
+        "when": "Mug Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/mug_hat"
+        }
+      },
+      {
+        "when": "Newspaper",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/newspaper"
+        }
+      },
+      {
+        "when": "Piglin Mask",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/piglin_mask"
+        }
+      },
+      {
+        "when": "Quill",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/quill"
+        }
+      },
+      {
+        "when": "Raccoon Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/raccoon_hat"
+        }
+      },
+      {
+        "when": "Reporter Fedora",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/reporter_fedora"
+        }
+      },
+      {
+        "when": "Sunhat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/sunhat"
+        }
+      },
+      {
+        "when": "Top Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/top_hat"
+        }
+      },
+      {
+        "when": "Western Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "origin_realms:item/western_hat"
+        }
+      },
+      {
+        "when": "Iron Helmet Knight",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item_addons:item/helmets/iron/iron_helmet_knight"
+        }
+      },
+      {
+        "when": "Steel Light Helmet Chains Full",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item_addons:item/helmets/steel/steel_light_helmet_chains_full"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/flint"
+    }
+  }
+}

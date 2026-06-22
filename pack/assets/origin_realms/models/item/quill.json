@@ -1,0 +1,53 @@
+{
+	"types": [ "minecraft:flint" ],
+	"textures": {
+		"0": "origin_realms:item/quill",
+		"particle": "origin_realms:item/quill"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 1}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [28, 158, 0],
+			"translation": [-4.28125, 1.04688, 7.1875],
+			"scale": [0.9375, 0.9375, 0.9375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [28, -158, 0],
+			"translation": [2.5, 1.25, 7]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -142, 0],
+			"translation": [6, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -142, 0],
+			"translation": [6, 1.75, 0]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-24, -90, 0]
+		},
+		"head": {
+			"rotation": [15, 152, 0],
+			"translation": [-11.75, 7.75, 13],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -18],
+			"scale": [2, 2, 2]
+		}
+	}
+}

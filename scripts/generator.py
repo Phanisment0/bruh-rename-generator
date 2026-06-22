@@ -34,7 +34,7 @@ class Generator:
 
 			added_count = 0
 			for model_id in model_list:
-				model_str_path = str(model_id)
+				model_str_path = str(model_id).replace(".json", '')
 				display_name = self.format_item_name(model_id.path)
 
 				if display_name in existing_names or model_str_path in existing_paths: continue
@@ -45,4 +45,3 @@ class Generator:
 				try:
 					with open(item_file_target, 'w', encoding='utf-8') as f: json.dump(asdict(root_model), f, indent=2, ensure_ascii=False)
 				except Exception as e: print(f"   | \u001B[31mERROR\u001B[0m Gagal menyimpan file {item_file_target.name}: {e}")
-			else: print(f"   | [INFO] Semua model untuk \u001B[34m{material_id.path}\u001B[0m sudah sinkron.")

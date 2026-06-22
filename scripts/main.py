@@ -7,7 +7,7 @@ pack_path = Path("pack")
 namespace_path = Path("pack/assets")
 items_path = namespace_path / "minecraft" / "items"
 
-build_path = Path("build")
+build_path = Path("C:\\Users\\user\\AppData\\Roaming\\PrismLauncher\\instances\\1.21.11 - Opt\\minecraft\\resourcepacks")
 
 if __name__ == "__main__":
 	if not pack_path.exists():

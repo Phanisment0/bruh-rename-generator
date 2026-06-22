@@ -1,0 +1,7 @@
+{
+	"types": [ "minecraft:flint" ],
+	"parent": "hoplite:item/ashebound_hood/base",
+	"textures": {
+		"0": "hoplite:item/ashebound_hood/shiny"
+	}
+}
